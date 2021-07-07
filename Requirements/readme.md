@@ -7,3 +7,16 @@ These days calculations have become most important to solve any problem in an ef
 The System is user friendly.
 The System is efficient and fast in response.
 The System can be customized according to needs.
+
+# Defining our System:
+
+The application focuses on simple mathematical operations
+
+Simple mathematical operations:
+- Addition- Integers and real numbers
+- Subtraction - Integers and real numbers
+- Multiplication – Integers and real numbers
+- Division - Real numbers
+- Factorial
+- min and max value
+- modulus
