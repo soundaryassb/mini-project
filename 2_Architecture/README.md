@@ -1,8 +1,11 @@
 # USE CASE DIAGRAM
-![](usecase.png)
+![now1](https://user-images.githubusercontent.com/68370011/125195215-5da25180-e272-11eb-97ae-b6586b69af43.png)
+
 # Flow Diagram
-![](flow.png)
+![now2](https://user-images.githubusercontent.com/68370011/125195211-59763400-e272-11eb-86c1-0ef8f15faafd.png)
+
+
 # Class Diagram
-![](class.png)
+
 # SEQUENCE DIAGRAM
 ![](sequence.png)
