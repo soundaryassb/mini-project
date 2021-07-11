@@ -26,6 +26,6 @@
 ![max](https://user-images.githubusercontent.com/68370011/125197001-9abe1200-e279-11eb-94c9-e83d6370f221.PNG)
 
 
-#MINIMUM
+# MINIMUM
 
 ![min](https://user-images.githubusercontent.com/68370011/125197003-9db90280-e279-11eb-8e4b-dc61a18deec6.PNG)
