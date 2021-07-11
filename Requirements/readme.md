@@ -51,6 +51,16 @@ Simple mathematical operations:
 
 ## Low Level Requirements
 
+|ID | Description | HRID | Status|
+|---|-------------|------|-------|
+|LR01| For each set of numbers the arthimetic,relational,factorial,max,min operators are performed and exact output is retrieved.| HR01 | TBI|
+|LR02| Each operation has a different methos so that it is easy to understand and implement.| HR02| TBI|
+|LR03| Each instruction is given clearly to perform the required operations.| HR03| TBI|
+|LR04| The user can perform as many operations as needed untill they require and exit once they are done with the calculations.| HR04|TBI|
+|LR05| The data should not be lost if a failure occurs |HR06|FUTURE|
+|LR06| The undo and redo operations help lo check them what operations has been performed previuosly.|HR07|FUTURE|
+|LR07| Trignometric calculations will be of a big use calculations will be very easy.|HR08|FUTURE|
+|LR08| For operations of division and trignometric operations answer should be dispalyed either in decimal or p/q form.|HR08|FUTURE|
 
 
 
