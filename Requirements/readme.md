@@ -2,13 +2,13 @@
 
 These days calculations have become most important to solve any problem in an effective manner and in a easy way without any mistakes. The Calculator application can be used by any bosy in order to calculate easily, effectively accurately.
 
-# Calculator Application and Features
+# Calculator Features and Application 
 
-The System is user friendly.
-The System is efficient and fast in response.
-The System can be customized according to needs.
+The features in this application are we can add, substract, divide, multiply, find modulus, find minimum number, maximum number, power of numbers, factorial of a num.
 
-
+- The System is user friendly.
+- The System is efficient and fast in response.
+- The System can be customized according to needs.
 
 
 ![calculator application](https://user-images.githubusercontent.com/68370011/124750851-96c18580-df43-11eb-9396-e679fd90c161.png)
