@@ -37,9 +37,17 @@ Simple mathematical operations:
 
 ## High Level Requirements
 
-![t11](https://user-images.githubusercontent.com/68370011/125186018-8c560300-e245-11eb-820f-06044ad23b47.PNG)
 
-
+| ID  | Description  | Category  | Status  |
+| --- | ------------ | --------- | ------- |
+| HR01| Arithimetic Operations | Techinal | TBI |
+| HR02| Relational Operations | Technical | TBI |
+| HR03| Factorial | technical|TBI|
+| HR04| Bitwise Operations | Technical | TBI|
+| HR05| The data should not be lost during failure | Scenario | FUTURE|
+| HR06| The undo and redo operations of the operators used| Scenario | FUTURE|
+| HR07| Trignometric operations have a good scope | Technical | FUTURE|
+| HR08| Answer can be viewed either in decimal or p/q form | Technical | FUTURE|
 
 ## Low Level Requirements
 
