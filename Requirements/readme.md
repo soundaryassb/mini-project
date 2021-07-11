@@ -1,8 +1,10 @@
-# Introduction
+# Requirements
+
+## Introduction
 
 These days calculations have become most important to solve any problem in an effective manner and in a easy way without any mistakes. The Calculator application can be used by any bosy in order to calculate easily, effectively accurately.
 
-# Calculator Features and Application 
+## Calculator Features and Application 
 
 The features in this application are we can add, substract, divide, multiply, find modulus, find minimum number, maximum number, power of numbers, factorial of a num.
 
@@ -14,7 +16,7 @@ The features in this application are we can add, substract, divide, multiply, fi
 ![calculator application](https://user-images.githubusercontent.com/68370011/124750851-96c18580-df43-11eb-9396-e679fd90c161.png)
 
 
-# Defining our System:
+## Defining our System:
 
 The application focuses on simple mathematical operations
 
@@ -27,8 +29,17 @@ Simple mathematical operations:
 - min and max value
 - modulus
  
-# SWOT Analysis
+## SWOT Analysis
 
 ![swot](https://user-images.githubusercontent.com/68370011/125184911-25355000-e23f-11eb-9812-58a5a9314c4f.png)
+
+# High and Low Level Requirements
+
+## High Level Requirements
+
+
+## Low Level Requirements
+
+
 
 
