@@ -29,3 +29,6 @@ Simple mathematical operations:
  
 # SWOT Analysis
 
+![swot](https://user-images.githubusercontent.com/68370011/125184911-25355000-e23f-11eb-9812-58a5a9314c4f.png)
+
+
