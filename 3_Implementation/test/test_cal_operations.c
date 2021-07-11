@@ -7,7 +7,7 @@ void test_sub(void);
 void test_mul(void);
 void test_divi(void);
 void test_mod(void);
-void test_fact(void);
+void test_facto(void);
 void test_max(void);
 void test_min(void);
 
@@ -23,7 +23,7 @@ int main(){
   RUN_TEST(test_mul);
   RUN_TEST(test_divi);
   RUN_TEST(test_mod);
-  RUN_TEST(test_fact);
+  RUN_TEST(test_facto);
   RUN_TEST(test_max);
   RUN_TEST(test_min);
   return UNITY_END();
