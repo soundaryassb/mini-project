@@ -26,3 +26,6 @@ Simple mathematical operations:
 - Factorial
 - min and max value
 - modulus
+ 
+# SWOT Analysis
+
